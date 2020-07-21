@@ -4,8 +4,13 @@ Regression models (both linear and non-linear) are used for predicting a real va
 
 
 Simple Linear Regression
+
 Multiple Linear Regression
+
 Polynomial Regression
+
 Support Vector for Regression (SVR)
+
 Decision Tree Classification
+
 Random Forest Classification
